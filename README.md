@@ -7,4 +7,4 @@ Mi primer juego que he creado, denle cariño porque si no me da amziedad
 </or>
 <hr>
 <h2>Siguientes pasos para su iniciacion</h2>
-1. Inicie el archivo <b>"metioritos.py"</b>
+1. Inicie el archivo <b>"meteoritos.py"</b>
