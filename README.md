@@ -1,5 +1,5 @@
 ### Mi-primer-juego
-Mi primer juego que he creado, denle cariño porque si no me da amziedad
+Mi primer juego que he creado
 <hr>
 <h2>Librerias necesarias para su ejecucion</h2>
 <or>
